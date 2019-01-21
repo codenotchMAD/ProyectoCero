@@ -1,0 +1,22 @@
+[class*="col-"] {
+    width: 100%;
+}
+
+@media only all and (min-width: 800px) {
+    .col-1{
+        background-color: black;
+        width: 25%;
+    }
+    .col-2{
+        background-color: black;
+        width: 50%;
+    }
+    .col-3{
+        background-color: black;
+        width: 75%;
+    }
+    .col-4{
+        background-color: black;
+        width: 100%;
+    }
+}
