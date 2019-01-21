@@ -1,0 +1,11 @@
+@media only print {
+    .f{
+        width: 33.3%;
+    }
+    .s{
+        width: 66.6%;
+    }
+    .t{
+        width: 100%;
+    }
+}
